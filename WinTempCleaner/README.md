@@ -1,5 +1,20 @@
 # 🧹 WinTempCleaner
 
+⚠️ Work in Progress
+
+This project is still actively being developed and improved.
+
+- Use this script at your own risk
+- The author is not responsible for any data loss, system issues,
+  or unintended deletions that may occur
+- Always run with -DryRun first to preview what will be deleted
+
+Found a bug or have a suggestion? Contributions are welcome!
+- 🐛 Open an Issue to report a bug or error
+- 💡 Start a Discussion to suggest improvements
+- 🔧 Submit a Pull Request if you'd like to contribute a fix
+
+
 **Free up disk space and improve Windows performance by cleaning temporary files.**
 
 WinTempCleaner is a PowerShell script that safely removes junk files that Windows leaves behind over time — installer leftovers, browser cache, crash dumps, system logs, and more. No installs required. Works on any Windows 10 or Windows 11 PC.
