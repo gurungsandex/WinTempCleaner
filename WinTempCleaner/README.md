@@ -14,8 +14,11 @@ Found a bug or have a suggestion? Contributions are welcome!
 - 💡 Start a Discussion to suggest improvements
 - 🔧 Submit a Pull Request if you'd like to contribute a fix
 
+.
+.
+.
 
-**Free up disk space and improve Windows performance by cleaning temporary files.**
+# Free up disk space and improve Windows performance by cleaning temporary files.**
 
 WinTempCleaner is a PowerShell script that safely removes junk files that Windows leaves behind over time — installer leftovers, browser cache, crash dumps, system logs, and more. No installs required. Works on any Windows 10 or Windows 11 PC.
 
